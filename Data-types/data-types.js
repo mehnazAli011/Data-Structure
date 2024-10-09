@@ -1,10 +1,10 @@
-//                                  Data Types In JS
-// Data types in Javascript=> Data types in js describe different data or kind of types of data you will be work with and storing  in varibles.understanding and correctly using these data types is cirucal for writing effectiy code.If  data is does not sorted in proper format , it can lead  to unexpected result and error to your code.
+                                  Data Types In JS
+Data types in Javascript=> Data types in js describe different data or kind of types of data you will be work with and storing  in varibles.understanding and correctly using these data types is cirucal for writing effectiy code.If  data is does not sorted in proper format , it can lead  to unexpected result and error to your code.
 
 
 
-//explain with example to better understanding :-
-//Without Data types
+explain with example to better understanding :-
+Without Data types
 let age1 = "11";//this is a string ,not a Number.
 age1 = age1+1;//  add the number 1(numricle addtions)
 
@@ -20,46 +20,46 @@ console.log(age2);//12 That is a correct output.
 
 //
 
-//                                Data-Types
-//                                    |
-//                       _____________|_______________  
-//                       |                            |
-//                      Primitve Data types            Non-primitve Data types
-//                       |                              |
-//                       Number                        Object
-//                       String                        Array
-//                       Boolean                       function
-//                       Symbol
-//                       Undefined
-//                       null
-//                       BigInt    
+                                 Data-Types
+                                   |
+                      _____________|_______________  
+                      |                            |
+                     Primitve Data types            Non-primitve Data types
+                      |                              |
+                      Number                        Object
+                      String                        Array
+                      Boolean                       function
+                      Symbol
+                      Undefined
+                      null
+                      BigInt    
 
-// In JavaScript ,Data types are categorized into primitive and non-primitve data types Here's the difference between them
-
-
-// premitive Data types:
-// Definations:
-// The premitive data types is a basic data types.The represnet a single value and immtutable data types.
-// immtuble means is value is cannot be  changed once they are created.
-// Types---------
-// String
-// Number
-// Boolean
-// Symbol
-// Bigint
-// Undefined
-// Null
-// Example
-// let name = "John"//string
-// let age = 25;//Number
-// let isStudent = true;//Boolean
+In JavaScript ,Data types are categorized into primitive and non-primitve data types Here's the difference between them
 
 
-// Behavior:
-// When you assin a primive value to a varible , it directly stores the value.
+premitive Data types:
+Definations:
+The premitive data types is a basic data types.The represnet a single value and immtutable data types.
+immtuble means is value is cannot be  changed once they are created.
+Types---------
+String
+Number
+Boolean
+Symbol
+Bigint
+Undefined
+Null
+Example
+let name = "John"//string
+let age = 25;//Number
+let isStudent = true;//Boolean
 
-// if you change the value of primitve types , the new value dose not effect the original beacuse the are stored separatley.
-// prmitive types 
+
+Behavior:
+When you assin a primive value to a varible , it directly stores the value.
+
+if you change the value of primitve types , the new value dose not effect the original beacuse the are stored separatley.
+prmitive types 
 let x = 10;
 let y =x;
  y= 20;
