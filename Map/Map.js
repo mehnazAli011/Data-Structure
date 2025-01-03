@@ -1,6 +1,6 @@
-//Why you need Map in JavaScript?
+Why you need Map in JavaScript?
 
-// Map is a collection of keyed Data items, just like an object.But The main different is Map __allow keys of any data types__.Method and propertyies are:new Map().map.map.set(key,value) store the values by the keys.
+Map is a collection of keyed Data items, just like an object.But The main different is Map __allow keys of any data types__.Method and propertyies are:new Map().map.map.set(key,value) store the values by the keys.
 
 //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Map() constructor>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
